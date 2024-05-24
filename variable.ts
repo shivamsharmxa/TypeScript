@@ -29,7 +29,9 @@ const user: User = {
 }
 
 console.log(user);
- 
+
+//using any
+
 
 
 
